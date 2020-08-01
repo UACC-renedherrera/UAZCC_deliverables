@@ -2,9 +2,11 @@
 title: "Documentation for UAZCC Characterization"
 author: "Prepared by René D Herrera for the UAZCC COE"
 date: "7/25/2020"
-output: 
+output:
+  pdf_document:
+    toc: yes
   html_document:
-    toc: true
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -12,10 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Characteristics and Attributes
+# Characteristics and Attributes
 
 
-### Population 
+## Population 
 
 
 - TOTAL POPULATION
@@ -41,7 +43,7 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-### Rural 
+## Rural 
 
 
 Calculated Rural / Total.
@@ -63,7 +65,7 @@ NOTE: For information on confidentiality protection, nonsampling error, and defi
 **Source: U.S. Census Bureau, 2010 Census.** https://data.census.gov/cedsci/
 
 
-### Female 
+## Female 
 
 
 - AGE AND SEX
@@ -100,7 +102,7 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-### Race and Ethnicity 
+## Race and Ethnicity 
 
 
 - ACS DEMOGRAPHIC AND HOUSING ESTIMATES
@@ -128,7 +130,7 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-#### Non-Hispanic White 
+### Non-Hispanic White 
 
 
 Start with the population **Not-Hispanic or Latino** then choose sub-population **White alone**.
@@ -137,7 +139,7 @@ Start with the population **Not-Hispanic or Latino** then choose sub-population 
 > White – A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
 
 
-#### Hispanic 
+### Hispanic 
 
 
 Select total population of **Hispanic or Latino and Race**
@@ -146,7 +148,7 @@ Select total population of **Hispanic or Latino and Race**
 > Hispanics may be of any race, so also are included in applicable race categories. People who identify their origin as Hispanic, Latino, or Spanish may be of any race.
 
 
-#### American Indian
+### American Indian
 
 
 Start with the population **Not-Hispanic or Latino** then choose sub-population **American Indian and Alaska Native alone**.
@@ -155,7 +157,7 @@ Start with the population **Not-Hispanic or Latino** then choose sub-population 
 > American Indian or Alaska Native – A person having origins in any of the original peoples of North and South America (including Central America) and who maintains tribal affiliation or community attachment.
 
 
-#### Non-Hispanic Black 
+### Non-Hispanic Black 
 
 
 Start with the population **Not-Hispanic or Latino** then choose sub-population **Black or African American**.
@@ -164,7 +166,7 @@ Start with the population **Not-Hispanic or Latino** then choose sub-population 
 > Black or African American – A person having origins in any of the Black racial groups of Africa.
 
 
-### Uninsured
+## Uninsured
 
 
 From civilian noninstitutionalized population 2014-2018 percent estimate of **no health insurance coverage**.
@@ -219,67 +221,75 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-### Adult Smoking 
+## Adult Smoking 
 
 
 placeholder
 
 
-### Adult Obesity
+## Adult Obesity
+
+
+Screening and Risk Factors for United States by State. (2018). Retrieved July 31, 2020, from State Cancer Profiles website: https://statecancerprofiles.cancer.gov/ 
+
+
+- Obese (BMI >= 30 )
+- All Races (includes Hispanic), Both Sexes, Ages 20+
+
+
+## No Leisure-Time Physical Activity
+
+
+Screening and Risk Factors for United States by State. (2018). Retrieved July 31, 2020, from State Cancer Profiles website: https://statecancerprofiles.cancer.gov/ 
+
+
+- No Leisure Time Physical Activity
+- All Races (includes Hispanic), Both Sexes, Ages 18+
+
+
+## Excessive Drinking
 
 
 placeholder
 
 
-### No Leisure-Time Physical Activity
+## Mammography Screening
 
 
 placeholder
 
 
-### Excessive Drinkin
+## Colon Cancer Screening
 
 
 placeholder
 
 
-### Mammography Screening
+## HPV Vaccination
 
 
 placeholder
 
 
-### Colon Cancer Screening
+## Diabetes
 
 
 placeholder
 
 
-### HPV Vaccination
+## Liver Disease
 
 
 placeholder
 
 
-### Diabetes
+## H. Pylori
 
 
 placeholder
 
 
-### Liver Disease
-
-
-placeholder
-
-
-### H. Pylori
-
-
-placeholder
-
-
-### Educational Attainment
+## Educational Attainment
 
 
 - EDUCATIONAL ATTAINMENT
@@ -304,25 +314,25 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-#### High School Graduation
+### High School Graduation
 
 
 For population 25 years and over **High school graduate or higher**.
 
 
-#### Some College
+### Some College
 
 
 For population 25 years and over **Some college, no degree**.
 
 
-#### College Graduate
+### College Graduate
 
 
 For population 25 years and over **Bachelor's degree or higher**.
 
 
-### Unemployment
+## Unemployment
 
 
 From population 16 years and over percent estimate of **unemployment rate**.
@@ -353,7 +363,7 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-### Food Insecurity
+## Food Insecurity
 
 
 For Arizona only, reporting a 5-year average, for years 2016-2018, from: https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/interactive-charts-and-highlights/ 
@@ -362,7 +372,7 @@ For Arizona only, reporting a 5-year average, for years 2016-2018, from: https:/
 **Source: Calculated by USDA, Economic Research Service, using Current Population Survey Food Security Supplement data**  https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us.aspx
 
 
-### Households Below Poverty Level
+## Households Below Poverty Level
 
 
 Population for whom poverty status is determined **percent estimate below poverty level**.
@@ -393,13 +403,492 @@ While the 2014-2018 American Community Survey (ACS) data generally reflect the F
 Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 
-## Incidence
+# Incidence
 
 
-### top 24 cancer
+## US
 
 
-## Mortality
+National Program of Cancer Registries and Surveillance, Epidemiology, and End Results SEER*Stat Database: NPCR and SEER Incidence – U.S. Cancer Statistics 2001–2016 Public Use Research Database, November 2018 submission (2001–2016), United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Released June 2019, based on the November 2018 submission. Accessed at www.cdc.gov/cancer/uscs/public-use.
 
 
-### top 24 cancer
+### List of cancer sites 
+
+
+|Cancer Site                            |
+|:--------------------------------------|
+|All Cancer Sites Combined              |
+|Brain and Other Nervous System         |
+|Cervix                                 |
+|Colon and Rectum                       |
+|Corpus and Uterus, NOS                 |
+|Esophagus                              |
+|Female Breast                          |
+|Female Breast, <i>in situ</i>          |
+|Hodgkin Lymphoma                       |
+|Kaposi Sarcoma                         |
+|Kidney and Renal Pelvis                |
+|Larynx                                 |
+|Leukemias                              |
+|Liver and Intrahepatic Bile Duct       |
+|Lung and Bronchus                      |
+|Melanomas of the Skin                  |
+|Mesothelioma                           |
+|Myeloma                                |
+|Non-Hodgkin Lymphoma                   |
+|Oral Cavity and Pharynx                |
+|Ovary                                  |
+|Pancreas                               |
+|Stomach                                |
+|Thyroid                                |
+|Urinary Bladder                        |
+|Male Breast                            |
+|Prostate                               |
+|Testis                                 |
+|Male and Female Breast                 |
+|Male and Female Breast, <i>in situ</i> |
+
+
+## AZ and Catchment 
+
+
+The Arizona Department of Health Services (ADHS) Indicator Based Information System for Public Health (IBIS-PH) system allows the public to query cancer rates, mortality rates and population estimates for Arizona. These public health data sets are intended to support evidenced-based decision making in Arizona to plan and improve service delivery, evaluate health care systems, and inform policy decisions. Other uses are not permissible. Available at [http://healthdata.az.gov/](http://healthdata.az.gov/query/module_selection/azcr/AzCRSelection.html)
+
+
+### Detailed information for list of cancer sites
+
+
+| Site Group | ICD-O-3 Site (diagnosed 2001 to present) | ICD-O-3 Histology (Type) |
+|--:|:--|:--|
+| Oral Cavity | | |
+| Lip | C000-C009 | excluding 9590-9989 | 
+| Tongue | C019-C029 || 
+| Salivary Gland | C079-C089 || 
+| Floor of Mouth | C040-C049 || 
+| Gum and Other Mouth | C030-C039, C050-C059, C060-C069 || 
+| Nasopharynx | C110-C119 || 
+| Tonsil | C090-C099 || 
+| Oropharynx | C100-C109 || 
+| Hypopharynx | C129, C130-C139 || 
+| Other Oral Cavity and Pharynx | C140, C142-C148 | | 
+| Colorectal   (Colon excluding anus) | |  |
+| Cecum   |   C180 |   excluding 9590-9989 |
+|  Appendix   |   C181 | | 
+| Ascending Colon |  C182 | |
+|  Hepatic  Flexure |   C183 | | 
+| Transverse Colon |  C184 | |
+|  Splenic  Flexure |  C185 | |
+|  Descending  Colon  |  C186 | | 
+| Sigmoid  Colon |  C187 | | 
+|  Large Intestine, NOS |  C188-C189, C260 | | 
+|  Rectosigmoid  Junction |  C199 | | 
+| Rectum  |  C209 | | 
+|  Pancreas |  C250-C259 |  excluding  9590-9989 |
+|  Lung and Bronchus |   C340-C349 |  excluding 9590-9989 |
+|  Cutaneous Melonoma  |   C440-C449 |  8720-8790 |
+|   Breast |  C500-C509 |  excluding 9590-9989 |
+|   Corpus Uteri and Uterus, NOS | | |
+| Corpus Uteri  |  C540-C549 |  excluding 9590-9989 |
+|  Uterus, NOS  |  C559 | |
+|  Cervix Uteri |  C530-C539 |  excluding 9590-9989 |
+|  Ovary |  C569 |   | | 
+| Prostate |  C619 |  |
+|  Urinary Bladder |  C670-C679 |  excluding 9590-9989 |
+|  Kidney/Renal Pelvis |  C649, C659 |  |
+|  Thyroid |  C739 |  |
+|  Hodgkins Lymphoma  | |  |
+| Hodgkin -  Nodal |  C024, C098-C099, C111, C142, C379, C422, C770-C779 |  9650-9667 |
+|  Hodgkin - Extranodal |  All other sites | | 
+| Non-Hodgkins Lymphoma | |  | 
+| Non-Hodgkins - Nodal |  C024, C098,C099, C111,C142, C379,C422, C770-C779 |  9590-9596, 9670-9671, 9673, 9675, 9678-9680, 9684, 9687, 9689-9691, 9695, 9698-9702, 9705, 9708-9709, 9714-9719, 9727-9729, 9823, 9827 |
+|  Non-Hodgkins - Extranodal  |  All sites except C024, C098-C099, C111, C142, C379, C422, C770-C779,  All sites except C024, C098-C099, C111, C142, C379, C420-C422, C424, C770-C779  |  9590-9596, 9670-9671, 9673, 9675, 9678-9680, 9684, 9687, 9689-9691, 9695, 9698-9702, 9705, 9708-9709, 9714-9719, 9727-9729, 9823, 9827 |
+|  Leukemia | | |
+| Acute  Lymphocytic Leukemia |  |  9826,9835-9837 |
+|  Chronic Lymphocytic Leukemia |  C420, C421, C424 |  9823 |
+|  Other Lymphocytic Leukemia |  |  9820, 9832-9834, 9940 |
+| Acute  Myeloid Leukemia |  |  9840, 9861, 9866, 9867,  9871-9874, 9895-9897, 9910, 9920 |
+|  Acute Monocytic Leukemia |  |  9891 |
+|  Chronic Myeloid Leukemia |  |  9863, 9875, 9876, 9945, 9946  |
+|  Other Myeloid/Monocytic Leukemia |  |  9860, 9930 |
+|  Other Acute Leukemia |  |  9801, 9805, 9931 |
+|  Aleukemic, subleukemic and NOS  |  C420, C421, C424 | 9733, 9742, 9800, 9831, 9870,
+9948, 9963, 9964, 9827 |
+| Other | |  |
+| Esophagus |  C150-C159 |  excluding 9590-9989 |
+|  Stomach |  C160-C169 | |
+|  Small Intestine |  C170-C179 | |
+|  Anus, Anal Canal and Anorectum |  C210-C212, C218 | |
+|  Liver |  C220 | |
+|  Intrahepatic Bile Duct |  C221 | |
+|  Gallbladder |  C239 |  |
+|  Other Biliary |  C240-C249 | |
+|  Retroperitoneum |  C480 | |
+|  Peritoneum, Omentum and Mesentery |  C481-C482 | |
+|  Other Digestive Organs |  C268-C269, C488 | |
+|  Nose, Nasal Cavity and Middle Ear |  C300-C301, C310-C319 |  excluding 9590-9989 |
+|  Larynx |  C320-C329 | |
+|  Pleura |   C384 | |
+|  Trachea, Mediastinum and Other Respiratory Organs |  C339, C381-C383, C388, C390, C398, C399 | |
+|  Bones and Joints |   C400-C419 |  excluding 9590-9989 |
+|  Soft Tissue including Heart |  C380, C470-C479, C490-C499 |  excluding 9590-9989 |
+|  Other Non-Epithelial Skin |  C440-C449 |  excluding 8000-8005, 8010-8045, 8050-8084, 8090-8110, 8720-8790, 9590-9989 |
+|  Ovary |  C569 | |
+|  Vagina |  C529 | |
+|  Vulva |  C510-C519 | | 
+|  Other Female Genital Organs |  C570-C589 | |
+|  Testis |  C620-C629 |  excluding 9590-9989 |
+|  Penis |  C600-C609 | |
+|  Other Male Genital Organs |  C630-C639 | |
+|  Ureter |  C669 |   excluding 9590-9989 |
+|  Other Urinary Organs |  C680-C689 | |
+|  Eye and Orbit |  C690-C699 |  excluding 9590-9989 |
+|  Brain |  C710-C719 |  excluding 9530-9539, 9590-9989 |
+|  Cranial Nerves Other Nervous System |  C710-C719, C700-C709, C720-C729 |  9530-9539, excluding 9590-9989 |
+| Other Endocrine including Thymus |  C379, C740-C749, C750-C759 |  excluding 9590-9989 |
+|  Myeloma |  |  9731-9732, 9734 |
+|  Miscellaneous |  C760-C768, C809, C420-C424,C770-C779 |  excluding 9590-9989 |
+
+   Mesothelioma (9050-9055) and Kaposi Sarcoma (9140) are not coded separately.
+
+
+### AZ Query Details 
+
+
+```
+# Age-Adjusted Cancer Incidence Rates, Incidence Per 100,000 Population (04/28/2020)
+# Wed, Jul 29, 2020 2:56 PM, MST
+# 2016, 2015, 2014, 2013, 2012
+# Cancer Sites, Oral Cavity, Esophagus, Stomach, Small Intestine, Colorectal, Anus, 
+Anal Canal and Anorectum, Liver and Intrahepatic Bile Duct, Gallbladder and Other Biliary, 
+Pancreas, Larynx, Lung and Bronchus, Bones and Joints, Cutaneous Melanoma, Breast Invasive, 
+Corpus Uteri and Uterus, NOS, Cervix Uteri, Ovary, Prostate, Testis, Urinary Bladder, 
+Kidney/Renal Pelvis, Brain and Other Nervous System, Thyroid, Hodgkins Lymphoma, 
+Non-Hodgkins Lymphoma, Myeloma, Leukemia, Mesothelioma, Kaposi Sarcoma
+# White, Non Hispanic, White, Hispanic, Black, American Indian, Asian/Pacific Islander, 
+Other
+# County, Apache, Cochise, Coconino, Gila, Graham, Greenlee, La Paz, Maricopa, 
+# Mohave, Navajo, Pima, Pinal, Santa Cruz, Yavapai, Yuma
+# Cancer Sites, Sex
+```
+
+
+### AZ Query Details: Non-Hispanic White 
+
+
+```
+# Query Definition	
+# Query Item	Description / Value
+# Navigation Path	IBIS-PH > Custom Query > AzCR > Age-Adjusted Cancer Incidence Rates
+# Module	Arizona Cancer Registry Query Module
+# Measure	Age-Adjusted Cancer Incidence Rates, Incidence Per 100,000 Population (04/28/2020)
+# Time of Query	Wed, Jul 29, 2020 10:23 AM, MST
+# Year Filter	2016, 2015, 2014, 2013, 2012
+# Cancer Sites Filter	Cancer Sites, Oral Cavity, Esophagus, Stomach, 
+Small Intestine, Colorectal, Anus, Anal Canal and Anorectum, 
+Liver and Intrahepatic Bile Duct, Gallbladder and Other Biliary, Pancreas, 
+Larynx, Lung and Bronchus, Bones and Joints, Cutaneous Melanoma, Breast Invasive, 
+Corpus Uteri and Uterus, NOS, Cervix Uteri, Ovary, Prostate, Testis, Urinary Bladder, 
+Kidney/Renal Pelvis, Brain and Other Nervous System, Thyroid, Hodgkins Lymphoma, 
+Non-Hodgkins Lymphoma, Myeloma, Leukemia, Mesothelioma, Kaposi Sarcoma
+# Race Filter	White, Non Hispanic
+# County Filter	County, Cochise, Pima, Pinal, Santa Cruz, Yuma
+# Data Grouped By	Cancer Sites, Sex
+```
+
+
+### AZ Query Details: Hispanic
+
+
+```
+# Query Definition	
+# Query Item	Description / Value
+# Navigation Path	IBIS-PH > Custom Query > AzCR > Age-Adjusted Cancer Incidence Rates
+# Module	Arizona Cancer Registry Query Module
+# Measure	Age-Adjusted Cancer Incidence Rates, Incidence Per 100,000 Population (04/28/2020)
+# Time of Query	Wed, Jul 29, 2020 10:42 AM, MST
+# Year Filter	2016, 2015, 2014, 2013, 2012
+# Cancer Sites Filter	Cancer Sites, Oral Cavity, Esophagus, Stomach, Small Intestine, Colorectal, Anus, Anal Canal and Anorectum, Liver and Intrahepatic Bile Duct, Gallbladder and Other Biliary, Pancreas, Larynx, Lung and Bronchus, Bones and Joints, Cutaneous Melanoma, Breast Invasive, Corpus Uteri and Uterus, NOS, Cervix Uteri, Ovary, Prostate, Testis, Urinary Bladder, Kidney/Renal Pelvis, Brain and Other Nervous System, Thyroid, Hodgkins Lymphoma, Non-Hodgkins Lymphoma, Myeloma, Leukemia, Mesothelioma, Kaposi Sarcoma
+# Race Filter	White, Hispanic
+# County Filter	County, Cochise, Pima, Pinal, Santa Cruz, Yuma
+# Data Grouped By	Cancer Sites, Sex
+```
+
+
+### AZ Query Details: American Indian
+
+
+```
+# Query Definition	
+# Query Item	Description / Value
+# Navigation Path	IBIS-PH > Custom Query > AzCR > Age-Adjusted Cancer Incidence Rates
+# Module	Arizona Cancer Registry Query Module
+# Measure	Age-Adjusted Cancer Incidence Rates, Incidence Per 100,000 Population (04/28/2020)
+# Time of Query	Wed, Jul 29, 2020 10:50 AM, MST
+# Year Filter	2016, 2015, 2014, 2013, 2012
+# Cancer Sites Filter	Cancer Sites, Oral Cavity, Esophagus, Stomach, 
+Small Intestine, Colorectal, Anus, Anal Canal and Anorectum, 
+Liver and Intrahepatic Bile Duct, Gallbladder and Other Biliary, Pancreas, 
+Larynx, Lung and Bronchus, Bones and Joints, Cutaneous Melanoma, Breast Invasive, 
+Corpus Uteri and Uterus, NOS, Cervix Uteri, Ovary, Prostate, Testis, Urinary Bladder, 
+Kidney/Renal Pelvis, Brain and Other Nervous System, Thyroid, Hodgkins Lymphoma, 
+Non-Hodgkins Lymphoma, Myeloma, Leukemia, Mesothelioma, Kaposi Sarcoma
+# Race Filter	American Indian
+# County Filter	County, Cochise, Pima, Pinal, Santa Cruz, Yuma
+# Data Grouped By	Cancer Sites, Sex
+```
+
+
+### AZ Query Details: Non-Hispanic Black 
+
+
+```
+# Query Definition	
+# Query Item	Description / Value
+# Navigation Path	IBIS-PH > Custom Query > AzCR > Age-Adjusted Cancer Incidence Rates
+# Module	Arizona Cancer Registry Query Module
+# Measure	Age-Adjusted Cancer Incidence Rates, Incidence Per 100,000 Population (04/28/2020)
+# Time of Query	Wed, Jul 29, 2020 11:03 AM, MST
+# Year Filter	2016, 2015, 2014, 2013, 2012
+# Cancer Sites Filter	Cancer Sites, Oral Cavity, Esophagus, Stomach, 
+Small Intestine, Colorectal, Anus, Anal Canal and Anorectum, 
+Liver and Intrahepatic Bile Duct, Gallbladder and Other Biliary, Pancreas, 
+Larynx, Lung and Bronchus, Bones and Joints, Cutaneous Melanoma, Breast Invasive, 
+Corpus Uteri and Uterus, NOS, Cervix Uteri, Ovary, Prostate, Testis, Urinary Bladder, 
+Kidney/Renal Pelvis, Brain and Other Nervous System, Thyroid, Hodgkins Lymphoma, 
+Non-Hodgkins Lymphoma, Myeloma, Leukemia, Mesothelioma, Kaposi Sarcoma
+# Race Filter	Black
+# County Filter	County, Cochise, Pima, Pinal, Santa Cruz, Yuma
+# Data Grouped By	Cancer Sites, Sex
+```
+
+
+## Incidence Rate Ratios (IRR)
+
+
+Incidence rate ratios are calculated with each variable in the numerator and the US incidence rate in the denominator. 
+
+
+# Mortality
+
+
+Surveillance, Epidemiology, and End Results (SEER) Program (www.seer.cancer.gov) SEER*Stat Database: Mortality - All COD, Aggregated With County, Total U.S. (1990-2018) <Katrina/Rita Population Adjustment> - Linked To County Attributes - Total U.S., 1969-2018 Counties, National Cancer Institute, DCCPS, Surveillance Research Program, released May 2020.  Underlying mortality data provided by NCHS (www.cdc.gov/nchs).
+
+
+## List of Cancer SItes 
+
+
+|Cancer Site                                       |
+|:-------------------------------------------------|
+|Acute Lymphocytic Leukemia                        |
+|Acute Monocytic Leukemia                          |
+|Acute Myeloid Leukemia                            |
+|All Malignant Cancers                             |
+|Anus, Anal Canal and Anorectum                    |
+|Bones and Joints                                  |
+|Brain and Other Nervous System                    |
+|Breast                                            |
+|Cervix Uteri                                      |
+|Chronic Lymphocytic Leukemia                      |
+|Chronic Myeloid Leukemia                          |
+|Colon and Rectum                                  |
+|Colon excluding Rectum                            |
+|Corpus and Uterus, NOS                            |
+|Corpus Uteri                                      |
+|Digestive System                                  |
+|Endocrine System                                  |
+|Esophagus                                         |
+|Eye and Orbit                                     |
+|Female Genital System                             |
+|Floor of Mouth                                    |
+|Gallbladder                                       |
+|Gum and Other Mouth                               |
+|Hodgkin Lymphoma                                  |
+|Hypopharynx                                       |
+|Intrahepatic Bile Duct                            |
+|Kidney and Renal Pelvis                           |
+|Larynx                                            |
+|Leukemia                                          |
+|Lip                                               |
+|Liver                                             |
+|Liver and Intrahepatic Bile Duct                  |
+|Lung and Bronchus                                 |
+|Lymphocytic Leukemia                              |
+|Lymphoma                                          |
+|Male Genital System                               |
+|Melanoma of the Skin                              |
+|Myeloid and Monocytic Leukemia                    |
+|Myeloma                                           |
+|Nasopharynx                                       |
+|Non-Hodgkin Lymphoma                              |
+|Nose, Nasal Cavity and Middle Ear                 |
+|Oral Cavity and Pharynx                           |
+|Oropharynx                                        |
+|Other Biliary                                     |
+|Other Endocrine including Thymus                  |
+|Other Lymphocytic Leukemia                        |
+|Other Myeloid/Monocytic Leukemia                  |
+|Other Oral Cavity and Pharynx                     |
+|Ovary                                             |
+|Pancreas                                          |
+|Penis                                             |
+|Peritoneum, Omentum and Mesentery                 |
+|Pleura                                            |
+|Prostate                                          |
+|Rectum and Rectosigmoid Junction                  |
+|Respiratory System                                |
+|Retroperitoneum                                   |
+|Salivary Gland                                    |
+|Skin                                              |
+|Small Intestine                                   |
+|Soft Tissue including Heart                       |
+|Stomach                                           |
+|Testis                                            |
+|Thyroid                                           |
+|Tongue                                            |
+|Tonsil                                            |
+|Trachea, Mediastinum and Other Respiratory Organs |
+|Ureter                                            |
+|Urinary Bladder                                   |
+|Urinary System                                    |
+|Uterus, NOS                                       |
+|Vagina                                            |
+|Vulva                                             |
+
+
+## US Query Details 
+
+
+```
+# {Age at Death.Age recode with <1 year olds} = '00 years','01-04 years',
+'05-09 years','10-14 years','15-19 years','20-24 years','25-29 years',
+'30-34 years','35-39 years','40-44 years','45-49 years','50-54 years',
+'55-59 years','60-64 years','65-69 years','70-74 years','75-79 years',
+'80-84 years','85+ years'
+# {Race, Sex, Year Dth, State, Cnty, Reg.Race recode (W, B, AI, API)} = 
+'White','Black','American Indian/Alaska Native','Asian or Pacific Islander'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Sex} = 'Male and female'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Year of death recode} = '2014-2018'
+# {Site and Morphology.Cause of death recode} = '    Oral Cavity and Pharynx',
+'      Esophagus','      Stomach','      Small Intestine',
+'      Colon and Rectum','      Anus, Anal Canal and Anorectum',
+'      Liver and Intrahepatic Bile Duct','      Gallbladder',
+'      Other Biliary','      Pancreas','      Retroperitoneum',
+'      Peritoneum, Omentum and Mesentery','      Nose, Nasal Cavity and Middle Ear',
+'      Larynx','      Lung and Bronchus','      Pleura',
+'      Trachea, Mediastinum and Other Respiratory Organs',
+'    Bones and Joints','    Soft Tissue including Heart',
+'      Melanoma of the Skin','    Breast','      Cervix Uteri',
+'      Corpus and Uterus, NOS','      Ovary','      Vagina',
+'      Vulva','      Prostate','      Testis','      Penis',
+'      Urinary Bladder','      Kidney and Renal Pelvis',
+'      Ureter','    Eye and Orbit','    Brain and Other Nervous System',
+'    Endocrine System','      Hodgkin Lymphoma',
+'      Non-Hodgkin Lymphoma','    Myeloma','      Lymphocytic Leukemia',
+'      Myeloid and Monocytic Leukemia'
+```
+
+
+## AZ Query Details 
+
+
+```
+# {Age at Death.Age recode with <1 year olds} = '00 years','01-04 years',
+'05-09 years','10-14 years','15-19 years','20-24 years','25-29 years',
+'30-34 years','35-39 years','40-44 years','45-49 years','50-54 years',
+'55-59 years','60-64 years','65-69 years','70-74 years','75-79 years',
+'80-84 years','85+ years'
+# {Race, Sex, Year Dth, State, Cnty, Reg.Race recode (W, B, AI, API)} = 
+'White','Black','American Indian/Alaska Native','Asian or Pacific Islander'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Sex} = 'Male and female'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Year of death recode} = '2014-2018'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.State} = 'Arizona'
+# {Site and Morphology.Cause of death recode} = '    Oral Cavity and Pharynx',
+'      Esophagus','      Stomach','      Small Intestine','      Colon and Rectum',
+'      Anus, Anal Canal and Anorectum','      Liver and Intrahepatic Bile Duct',
+'      Gallbladder','      Other Biliary','      Pancreas','      Retroperitoneum',
+'      Peritoneum, Omentum and Mesentery','      Nose, Nasal Cavity and Middle Ear',
+'      Larynx','      Lung and Bronchus','      Pleura',
+'      Trachea, Mediastinum and Other Respiratory Organs',
+'    Bones and Joints','    Soft Tissue including Heart',
+'      Melanoma of the Skin','    Breast','      Cervix Uteri',
+'      Corpus and Uterus, NOS','      Ovary','      Vagina','      Vulva',
+'      Prostate','      Testis','      Penis','      Urinary Bladder',
+'      Kidney and Renal Pelvis','      Ureter','    Eye and Orbit',
+'    Brain and Other Nervous System','    Endocrine System',
+'      Hodgkin Lymphoma','      Non-Hodgkin Lymphoma','    Myeloma',
+'      Lymphocytic Leukemia','      Myeloid and Monocytic Leukemia'
+```
+
+
+## Catchment Query Details 
+
+
+```
+# {Age at Death.Age recode with <1 year olds} = '00 years','01-04 years',
+'05-09 years','10-14 years','15-19 years','20-24 years','25-29 years','30-34 years',
+'35-39 years','40-44 years','45-49 years','50-54 years','55-59 years','60-64 years',
+'65-69 years','70-74 years','75-79 years','80-84 years','85+ years'
+# {Race, Sex, Year Dth, State, Cnty, Reg.Race recode (W, B, AI, API)} = 
+'White','Black','American Indian/Alaska Native','Asian or Pacific Islander'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Sex} = 'Male and female'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Year of death recode} = '2014-2018'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.State} = 'Arizona'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.State-county} = 
+'  AZ: Cochise County (04003)','  AZ: Pima County (04019)',
+'  AZ: Pinal County (04021)','  AZ: Santa Cruz County (04023)',
+'    AZ: Yuma County (04027) - 1994+'
+# {Site and Morphology.Cause of death recode} = '    Oral Cavity and Pharynx',
+'      Esophagus','      Stomach','      Small Intestine','      Colon and Rectum',
+'      Anus, Anal Canal and Anorectum','      Liver and Intrahepatic Bile Duct',
+'      Gallbladder','      Other Biliary','      Pancreas','      Retroperitoneum',
+'      Peritoneum, Omentum and Mesentery','      Nose, Nasal Cavity and Middle Ear',
+'      Larynx','      Lung and Bronchus','      Pleura',
+'      Trachea, Mediastinum and Other Respiratory Organs','    Bones and Joints',
+'    Soft Tissue including Heart','      Melanoma of the Skin','    Breast',
+'      Cervix Uteri','      Corpus and Uterus, NOS','      Ovary','      Vagina',
+'      Vulva','      Prostate','      Testis','      Penis','      Urinary Bladder',
+'      Kidney and Renal Pelvis','      Ureter','    Eye and Orbit',
+'    Brain and Other Nervous System','    Endocrine System','      Hodgkin Lymphoma',
+'      Non-Hodgkin Lymphoma','    Myeloma','      Lymphocytic Leukemia',
+'      Myeloid and Monocytic Leukemia'
+```
+
+
+## Mortality for Catchment by Race and Ethnicity Query Details 
+
+
+```
+# {Age at Death.Age recode with <1 year olds} = '00 years','01-04 years',
+'05-09 years','10-14 years','15-19 years','20-24 years','25-29 years','30-34 years',
+'35-39 years','40-44 years','45-49 years','50-54 years','55-59 years','60-64 years',
+'65-69 years','70-74 years','75-79 years','80-84 years','85+ years'
+# {Race, Sex, Year Dth, State, Cnty, Reg.Race recode (W, B, AI, API)} = 
+'White','Black','American Indian/Alaska Native','Asian or Pacific Islander'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Origin recode 1990+ (Hispanic, Non-Hisp)} = 
+'Non-Spanish-Hispanic-Latino','Spanish-Hispanic-Latino'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Sex} = 'Male and female'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.Year of death recode} = '2014-2018'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.State} = 'Arizona'
+# AND {Race, Sex, Year Dth, State, Cnty, Reg.State-county} = 
+'  AZ: Cochise County (04003)','  AZ: Pima County (04019)',
+'  AZ: Pinal County (04021)','  AZ: Santa Cruz County (04023)',
+'    AZ: Yuma County (04027) - 1994+'
+# {Site and Morphology.Cause of death recode} = '  All Malignant Cancers'
+```
+
+
+## Criteria for Each Race Category 
+
+
+| Race and/or Ethnicity   | Criteria   |
+| :---------------------- | :--------- |
+| Non-Hispanic White      | "Non-Spanish-Hispanic-Latino" & "White" |
+| Hispanic                | "Spanish-Hispanic-Latino" |
+| American Indian         | "Non-Spanish-Hispanic-Latino" & "American Indian/Alaska Native" |
+| Non-Hispanic Black      | "Non-Spanish-Hispanic-Latino" & "Black" |
+
+
+## Incidence Rate Ratios (IRR)
+
+
+Incidence rate ratios are calculated with each variable in the numerator and the US incidence rate in the denominator. 
