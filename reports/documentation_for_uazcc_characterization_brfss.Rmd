@@ -1,0 +1,127 @@
+---
+title: "Documentation for BRFSS"
+author: "Prepared by René D Herrera for the UAZCC COE"
+date: "8/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Cervical Cancer Screening 
+
+
+- 2018
+- Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+- URL: https://nccd.cdc.gov/BRFSSPrevalence/rdPage.aspx?rdReport=DPH_BRFSS.ExploreByTopic&irbLocationType=StatesAndMMSA&islClass=CLASS18&islTopic=TOPIC42&islYear=2018&rdRnd=93602
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## Excessive Drinking
+
+
+Binge drinkers (males having five or more drinks on one occasion, females having four or more drinks on one occasion) (variable calculated from one or more BRFSS questions): YES
+
+
+USA: 16.2% 
+AZ: 15.6% 
+
+
+- 2018
+- Binge drinkers (males having five or more drinks on one occasion, females having four or more drinks on one occasion) (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: Yes
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## Adult Smoking
+
+
+Adults who are current smokers (variable calculated from one or more BRFSS questions) YES
+
+
+- 2018
+- Adults who are current smokers (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## Adult Obesity 
+
+
+- 2018
+- Weight classification by Body Mass Index (BMI) (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## No Leisure-Time Physical Activity
+
+
+- 2018
+- During the past month, did you participate in any physical activities? (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## Mammography Screening
+
+
+- 2018
+- Women aged 50-74 who have had a mammogram within the past two years (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+
+## Colon Cancer Screening
+
+
+- 2018
+- Respondents aged 50-75 who have fully met the USPSTF recommendation (variable calculated from one or more BRFSS questions) (Crude Prevalence)
+- View by: Overall
+- Response: All
+
+
+### Citation 
+
+
+Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 12, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/.
+
+

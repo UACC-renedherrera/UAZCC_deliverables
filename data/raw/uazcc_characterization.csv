@@ -1,0 +1,315 @@
+attribute,area,race,value,year,source,note
+Adult Obesity ,Pima,All,0.25,2017,Obesity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Adult Obesity ,Cochise,All,0.26,2017,Obesity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Adult Obesity ,Santa Cruz,All,0.26,2017,Obesity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Adult Obesity ,AZ,All,0.295,2018,2018 BRFSS Survey Data,statecancerprofiles.cancer.gov
+Adult Obesity ,Pinal,All,0.316,2017,Obesity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Adult Obesity ,USA,All,0.316,2018,2018 BRFSS Survey Data,statecancerprofiles.cancer.gov
+Adult Obesity ,Yuma,All,0.795,2017,Obesity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Adult Obesity ,Catchment,Non-Hispanic White,,,,
+Adult Obesity ,Catchment,Hispanic or Latino,,,,
+Adult Obesity ,Catchment,American Indian,,,,
+Adult Obesity ,Catchment,All,,,,
+Adult Smoking,AZ,All,0.14,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Santa Cruz,All,0.146,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Cochise,All,0.151,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Yuma,All,0.154,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,USA,All,0.161,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Pinal,All,0.169,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Pima,All,0.184,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Adult Smoking,Catchment,Non-Hispanic White,,,,
+Adult Smoking,Catchment,Hispanic or Latino,,,,
+Adult Smoking,Catchment,American Indian,,,,
+Adult Smoking,Catchment,All,,,,
+American Indian,Santa Cruz,All,0.00213,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,USA,All,0.007,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,Yuma,All,0.00908,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,Cochise,All,0.00992,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,Pima,All,0.0246,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,Catchment,All,0.0252,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,AZ,All,0.039,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+American Indian,Pinal,All,0.0417,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Cervical Cancer Screening ,Santa Cruz,All,0.491,,,
+Cervical Cancer Screening ,Pinal,All,0.505,,,
+Cervical Cancer Screening ,Cochise,All,0.521,,,
+Cervical Cancer Screening ,Yuma,All,0.521,,,
+Cervical Cancer Screening ,Pima,All,0.608,,,
+Cervical Cancer Screening ,AZ,All,0.776,2018,age adjusted 2018 BRFSS Data,"Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions) Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 19, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/."
+Cervical Cancer Screening ,USA,All,0.801,2018,Directly Estimated 2018 BRFSS Data,"Women aged 21-65 who have had a pap test in the past three years (variable calculated from one or more BRFSS questions) Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 19, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/."
+Cervical Cancer Screening ,Catchment,Non-Hispanic White,,,,
+Cervical Cancer Screening ,Catchment,Hispanic or Latino,,,,
+Cervical Cancer Screening ,Catchment,American Indian,,,,
+Cervical Cancer Screening ,Catchment,All,,,,
+College Graduate,Catchment,American Indian,0.091,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Catchment,Hispanic or Latino,0.13,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Yuma,All,0.148,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Pinal,All,0.19,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Santa Cruz,All,0.21,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Cochise,All,0.23,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Catchment,All,0.261,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,AZ,All,0.289,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,USA,All,0.315,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Pima,All,0.319,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+College Graduate,Catchment,Non-Hispanic White,0.333,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Colon Cancer Screening,Santa Cruz,All,0.491,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Colon Cancer Screening,Pinal,All,0.505,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Colon Cancer Screening,Cochise,All,0.521,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Colon Cancer Screening,Yuma,All,0.521,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Colon Cancer Screening,Pima,All,0.608,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Colon Cancer Screening,AZ,All,0.7532,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Colon Cancer Screening,USA,All,0.755,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Colon Cancer Screening,Catchment,Non-Hispanic White,,,,
+Colon Cancer Screening,Catchment,Hispanic or Latino,,,,
+Colon Cancer Screening,Catchment,American Indian,,,,
+Colon Cancer Screening,Catchment,All,,,,
+Diabetes ,Pima,All,0.076,2017,Diagnosed Diabetes; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Diabetes ,Santa Cruz,All,0.077,2017,Diagnosed Diabetes; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Diabetes ,Cochise,All,0.083,2017,Diagnosed Diabetes; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Diabetes ,USA,All,0.091,2018,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,"Diagnosed Diabetes,
+Total, Adults Aged 18+ Years, Age-Adjusted Percentage, National"
+Diabetes ,AZ,All,0.097,2016,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,"Diagnosed Diabetes,
+Total, Adults Aged 18+ Years, Age-Adjusted Percentage, National"
+Diabetes ,Yuma,All,0.106,2017,Diagnosed Diabetes; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Diabetes ,Pinal,All,0.119,2017,Diagnosed Diabetes; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+Diabetes ,Catchment,Non-Hispanic White,,,,
+Diabetes ,Catchment,Hispanic or Latino,,,,
+Diabetes ,Catchment,American Indian,,,,
+Diabetes ,Catchment,All,,,,
+Excessive drinking (BRFSS),Santa Cruz,All,0.14,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings 
+Excessive drinking (BRFSS),Cochise,All,0.15,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings 
+Excessive drinking (BRFSS),AZ,All,0.156,2018,Behavioral Risk Factor Surveillance System.,Prevalence of Binge Drinking Among US Adults; Data Planet™ Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID: 005-056-001
+Excessive drinking (BRFSS),Pinal,All,0.16,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings 
+Excessive drinking (BRFSS),USA,All,0.162,2018,Behavioral Risk Factor Surveillance System,"Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health. BRFSS Prevalence & Trends Data [online]. 2015. [accessed Aug 19, 2020]. URL: https://www.cdc.gov/brfss/brfssprevalence/."
+Excessive drinking (BRFSS),Pima,All,0.17,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings 
+Excessive drinking (BRFSS),Yuma,All,0.18,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings 
+Excessive drinking (BRFSS),Catchment,Non-Hispanic White,,,,
+Excessive drinking (BRFSS),Catchment,Hispanic or Latino,,,,
+Excessive drinking (BRFSS),Catchment,American Indian,,,,
+Excessive drinking (BRFSS),Catchment,All,,,,
+Female,Pinal,All,0.478,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Yuma,All,0.485,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Cochise,All,0.492,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Catchment,All,0.497663635,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Catchment,Hispanic or Latino,0.49826309,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Catchment,Non-Hispanic White,0.500846285,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,AZ,All,0.50286518,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,USA,All,0.507641071,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Pima,All,0.508,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Santa Cruz,All,0.522,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Female,Catchment,American Indian,0.669279305,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: S0101
+Food Insecurity ,USA,All,0.122,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Pinal,All,0.127,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,AZ,All,0.131,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Pima,All,0.136,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Catchment,All,0.141,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Cochise,All,0.144,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Santa Cruz,All,0.153,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Yuma,All,0.188,2018,"Gundersen, C., A. Dewey, E. Engelhard, M. Strayer & L. Lapinski. Map the Meal Gap 2020: A Report on County and Congressional District Food Insecurity and County Food Cost in the United States in 2018. Feeding America, 2020. 
+",the condition assessed in the food security survey and represented in USDA food security reports—is a household-level economic and social condition of limited or uncertain access to adequate food. https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/definitions-of-food-security.aspx
+Food Insecurity ,Catchment,Non-Hispanic White,,,,
+Food Insecurity ,Catchment,Hispanic or Latino,,,,
+Food Insecurity ,Catchment,American Indian,,,,
+H. Poloyri (Robin for local catchment),Catchment,Non-Hispanic White,,,,
+H. Poloyri (Robin for local catchment),Catchment,Hispanic or Latino,,,,
+H. Poloyri (Robin for local catchment),Catchment,American Indian,,,,
+H. Poloyri (Robin for local catchment),AZ,All,,,,
+H. Poloyri (Robin for local catchment),Catchment,All,,,,
+H. Poloyri (Robin for local catchment),Cochise,All,,,,
+H. Poloyri (Robin for local catchment),Pima,All,,,,
+H. Poloyri (Robin for local catchment),Pinal,All,,,,
+H. Poloyri (Robin for local catchment),Santa Cruz,All,,,,
+H. Poloyri (Robin for local catchment),USA,All,,,,
+H. Poloyri (Robin for local catchment),Yuma,All,,,,
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Yuma,All,0.576,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Pinal,All,0.621,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",AZ,All,0.685,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Cochise,All,0.685,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",USA,All,0.717,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Santa Cruz,All,0.742,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Pima,All,0.75,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+High School Graduation ,Catchment,Hispanic or Latino,0.711,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Yuma,All,0.721,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Catchment,American Indian,0.73,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Santa Cruz,All,0.756,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Pinal,All,0.854,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Catchment,All,0.855,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,AZ,All,0.868,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Cochise,All,0.872,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,USA,All,0.877,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Pima,All,0.883,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+High School Graduation ,Catchment,Non-Hispanic White,0.937,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Hispanic,USA,All,0.178,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Pinal,All,0.299,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,AZ,All,0.311,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Cochise,All,0.353,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Pima,All,0.37,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Catchment,All,0.394,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Yuma,All,0.634,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Santa Cruz,All,0.835,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Hispanic,Catchment,Non-Hispanic White,,,,
+Hispanic,Catchment,Hispanic or Latino,,,,
+Hispanic,Catchment,American Indian,,,,
+Households Below Poverty Level,USA,All,0.141,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Pinal,All,0.142,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,AZ,All,0.161,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Cochise,All,0.172,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Catchment,All,0.174,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Pima,All,0.178,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Yuma,All,0.201,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Santa Cruz,All,0.24,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1701
+Households Below Poverty Level,Catchment,Non-Hispanic White,,,,
+Households Below Poverty Level,Catchment,Hispanic or Latino,,,,
+Households Below Poverty Level,Catchment,American Indian,,,,
+HPV vaccination (age range 13-17) 3+ doses,Pinal,All,0.352,2017,"Immunizations for Adolescents Completion Rates, AHCCCS",https://www.azahcccs.gov/resources/Downloads/PerformanceMeasures/CYE2017_AdolescentImmunizationReport.pdf
+HPV vaccination (age range 13-17) 3+ doses,USA,All,0.379,2018,2018 National Immunization Survey,statecancerprofiles.cancer.gov
+HPV vaccination (age range 13-17) 3+ doses,Santa Cruz,All,0.408,2017,"Immunizations for Adolescents Completion Rates, AHCCCS",https://www.azahcccs.gov/resources/Downloads/PerformanceMeasures/CYE2017_AdolescentImmunizationReport.pdf
+HPV vaccination (age range 13-17) 3+ doses,AZ,All,0.447,2018,2018 National Immunization Survey,statecancerprofiles.cancer.gov
+HPV vaccination (age range 13-17) 3+ doses,Pima,All,0.477,2017,"Immunizations for Adolescents Completion Rates, AHCCCS",https://www.azahcccs.gov/resources/Downloads/PerformanceMeasures/CYE2017_AdolescentImmunizationReport.pdf
+HPV vaccination (age range 13-17) 3+ doses,Cochise,All,0.505,2017,"Immunizations for Adolescents Completion Rates, AHCCCS",https://www.azahcccs.gov/resources/Downloads/PerformanceMeasures/CYE2017_AdolescentImmunizationReport.pdf
+HPV vaccination (age range 13-17) 3+ doses,Yuma,All,0.566,2017,"Immunizations for Adolescents Completion Rates, AHCCCS",https://www.azahcccs.gov/resources/Downloads/PerformanceMeasures/CYE2017_AdolescentImmunizationReport.pdf
+HPV vaccination (age range 13-17) 3+ doses,Catchment,Non-Hispanic White,,,,
+HPV vaccination (age range 13-17) 3+ doses,Catchment,Hispanic or Latino,,,,
+HPV vaccination (age range 13-17) 3+ doses,Catchment,American Indian,,,,
+HPV vaccination (age range 13-17) 3+ doses,Catchment,All,,,,
+Liver Disease (Garcia to provide catchment),Catchment,Non-Hispanic White,,,,
+Liver Disease (Garcia to provide catchment),Catchment,Hispanic or Latino,,,,
+Liver Disease (Garcia to provide catchment),Catchment,American Indian,,,,
+Liver Disease (Garcia to provide catchment),AZ,All,,,,
+Liver Disease (Garcia to provide catchment),Catchment,All,,,,
+Liver Disease (Garcia to provide catchment),Cochise,All,,,,
+Liver Disease (Garcia to provide catchment),Pima,All,,,,
+Liver Disease (Garcia to provide catchment),Pinal,All,,,,
+Liver Disease (Garcia to provide catchment),Santa Cruz,All,,,,
+Liver Disease (Garcia to provide catchment),USA,All,,,,
+Liver Disease (Garcia to provide catchment),Yuma,All,,,,
+Mammography Screening,Pinal,All,0.524,2008-2010 ,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Mammography Screening,Yuma,All,0.553,2008-2010 ,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Mammography Screening,Cochise,All,0.595,2008-2010 ,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Mammography Screening,Pima,All,0.645,2008-2010 ,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Mammography Screening,AZ,All,0.6917,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Mammography Screening,USA,All,0.718,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+Mammography Screening,Santa Cruz,All,0.735,2008-2010 ,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov
+Mammography Screening,Catchment,Non-Hispanic White,,,,
+Mammography Screening,Catchment,Hispanic or Latino,,,,
+Mammography Screening,Catchment,American Indian,,,,
+Mammography Screening,Catchment,All,,,,
+Mean family income,Yuma,All,62926,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,Santa Cruz,All,64481,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,Cochise,All,71571,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,Pinal,All,75926,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,Pima,All,83871,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,AZ,All,88911,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Mean family income,USA,All,99436,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Age,AZ,All,37.4,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,USA,All,37.9,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,Catchment,All,,,,
+Median Age,Catchment,Non-Hispanic White,,,,
+Median Age,Catchment,Hispanic or Latino,,,,
+Median Age,Catchment,American Indian,,,,
+Median Age,Cochise,All,40.6,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,Pima,All,38.3,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,Pinal,All,38.9,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,Santa Cruz,All,36.6,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Age,Yuma,All,34.3,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: B01002
+Median Family income,Santa Cruz,All,45074,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,Yuma,All,49050,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,Cochise,All,58635,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,Pima,All,63576,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,Pinal,All,63833,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,AZ,All,66988,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+Median Family income,USA,All,73965,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901
+No Leisure-Time Physical Activity,Pima,All,0.2,2017,Physical Inactivity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+No Leisure-Time Physical Activity,Santa Cruz,All,0.2,2017,Physical Inactivity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+No Leisure-Time Physical Activity,Cochise,All,0.25,2017,Physical Inactivity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+No Leisure-Time Physical Activity,USA,All,0.251,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+No Leisure-Time Physical Activity,AZ,All,0.2584,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov
+No Leisure-Time Physical Activity,Yuma,All,0.26,2017,Physical Inactivity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+No Leisure-Time Physical Activity,Pinal,All,0.29,2017,Physical Inactivity; Age-Adjusted; Percentage; Adults Aged 20+ Years; Arizona Counties; 2017,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
+No Leisure-Time Physical Activity,Catchment,Non-Hispanic White,,,,
+No Leisure-Time Physical Activity,Catchment,Hispanic or Latino,,,,
+No Leisure-Time Physical Activity,Catchment,American Indian,,,,
+No Leisure-Time Physical Activity,Catchment,All,,,,
+Non-Hispanic Black,Santa Cruz,All,0.00215,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Yuma,All,0.0172,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Catchment,All,0.0321,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Pima,All,0.0322,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Cochise,All,0.0353,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,AZ,All,0.041,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Pinal,All,0.0418,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,USA,All,0.123,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic Black,Catchment,Non-Hispanic White,,,,
+Non-Hispanic Black,Catchment,Hispanic or Latino,,,,
+Non-Hispanic Black,Catchment,American Indian,,,,
+Non-Hispanic White,Santa Cruz,All,0.149,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Yuma,All,0.314,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Catchment,All,0.502,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Pima,All,0.521,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,AZ,All,0.551,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Cochise,All,0.552,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Pinal,All,0.571,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,USA,All,0.611,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05
+Non-Hispanic White,Catchment,Non-Hispanic White,,,,
+Non-Hispanic White,Catchment,Hispanic or Latino,,,,
+Non-Hispanic White,Catchment,American Indian,,,,
+Population,Catchment,American Indian,45803,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Santa Cruz,All,46584,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Cochise,All,126279,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Yuma,All,207829,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Pinal,All,419721,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Catchment,Hispanic or Latino,717366,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Catchment,Non-Hispanic White,912813,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Pima,All,1019722,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,Catchment,All,1820135,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,AZ,All,6946685,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Population,USA,All,322903030,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003
+Rural,Pima,All,0.076076923,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Yuma,All,0.109447923,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,AZ,All,0.1156685,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Pinal,All,0.191625529,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,USA,All,0.210205,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Catchment,All,0.283722669,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Santa Cruz,All,0.357912271,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Cochise,All,0.387036127,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2
+Rural,Catchment,Non-Hispanic White,,,,
+Rural,Catchment,Hispanic or Latino,,,,
+Rural,Catchment,American Indian,,,,
+Some College,USA,All,0.206,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Santa Cruz,All,0.216,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Yuma,All,0.243,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Pima,All,0.251,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,AZ,All,0.253,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Catchment,All,0.258,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Pinal,All,0.274,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Cochise,All,0.292,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301
+Some College,Catchment,Non-Hispanic White,,,,
+Some College,Catchment,Hispanic or Latino,,,,
+Some College,Catchment,American Indian,,,,
+Unemployment ,USA,All,0.133,"""May 2020""",U.S. Bureau of Labor Statistics ,"HOUSEHOLD DATA SEASONALLY ADJUSTED A-3. Employment status of the civilian noninstitutional population by sex and age, seasonally adjusted https://www.bls.gov/web/empsit/cpseea03.htm"
+Unemployment ,AZ,All,0.09,"""May 2020""",U.S. Bureau of Labor Statistics ,Local Area Unemployment Statistics https://data.bls.gov/timeseries/LASST040000000000003
+Unemployment ,Cochise,All,0.072,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Pima,All,0.084,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Pinal,All,0.081,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Santa Cruz,All,0.108,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Yuma,All,0.182,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Catchment,All,0.0937,"""May 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt"
+Unemployment ,Catchment,Non-Hispanic White,,,,
+Unemployment ,Catchment,Hispanic or Latino,,,,
+Unemployment ,Catchment,American Indian,,,,
+Uninsured ,Cochise,All,0.082,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Catchment,Non-Hispanic White,0.0831,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Pinal,All,0.088,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,USA,All,0.094,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Pima,All,0.099,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Catchment,All,0.0998,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,AZ,All,0.109,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Santa Cruz,All,0.116,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Yuma,All,0.133,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Catchment,Hispanic or Latino,0.144,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
+Uninsured ,Catchment,American Indian,0.193,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03
