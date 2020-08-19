@@ -38,9 +38,13 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# ignore data folder
+data/*
+
 # file types
 *.pdf
 *.html
 *.pptx
 *.docx
 *.csv
+*.xlsx
