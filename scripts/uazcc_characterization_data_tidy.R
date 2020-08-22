@@ -28,10 +28,22 @@ uazcc_attribute <- read_csv("data/raw/uazcc_characterization.csv",
                               value = col_number(),
                               year = col_character(),
                               source = col_character(),
-                              note = col_character()
+                              note = col_character(),
+                              category = col_character()
                             ),
                             na = c("", "NA")
                             )
+
+# branch for visualizations
+table_visualization <- uazcc_attribute %>%
+  select(attribute,
+         area,
+         race,
+         value,
+         category)
+
+write_rds(table_visualization, "data/tidy/data_for_visualizations.rds")
+
 
 # prepare for UAZCC COE Characteristics, no race 
 
@@ -53,3 +65,6 @@ uazcc_attribute_table <- full_join(uazcc_attribute_table, uazcc_attribute_table_
 
 # write to csv
 write_csv(uazcc_attribute_table, "data/tidy/uazcc_characterization_attribute_table.csv")
+
+
+# write to rds
