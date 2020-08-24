@@ -1,30 +1,30 @@
 category,attribute,USA,AZ,Catchment,Cochise,Pima,Pinal,Santa Cruz,Yuma,Non-Hispanic White,Hispanic or Latino,American Indian
-Demographics,College Graduate,32%,29%,26%,23%,32%,19%,21%,15%,33%,13%,9%
-Demographics,Female,51%,50%,50%,49%,51%,48%,52%,49%,50%,50%,67%
-Demographics,Food Insecurity,12%,13%,14%,14%,14%,13%,15%,19%,NA,NA,NA
-Demographics,High School Graduation,88%,87%,86%,87%,88%,85%,76%,72%,94%,71%,73%
-Demographics,Households Below Poverty Level,14%,16%,17%,17%,18%,14%,24%,20%,NA,NA,NA
-Demographics,Mean family income," $99,436.00 "," $88,911.00 ", NA ," $71,571.00 "," $83,871.00 "," $75,926.00 "," $64,481.00 "," $62,926.00 ", NA , NA , NA 
+Demographics,College Graduate,0.315,0.28900000000000003,0.261,0.23,0.319,0.19,0.21000000000000002,0.14800000000000002,0.33299999999999996,0.13,0.091
+Demographics,Female,0.5076410710000001,0.5028651799999999,0.497663635,0.492,0.508,0.47800000000000004,0.522,0.48500000000000004,0.500846285,0.49826308999999996,0.6692793049999999
+Demographics,Food Insecurity,0.12200000000000001,0.131,0.14100000000000001,0.14400000000000002,0.136,0.127,0.15300000000000002,0.188,NA,NA,NA
+Demographics,High School Graduation,0.8770000000000001,0.8680000000000001,0.8550000000000001,0.8720000000000001,0.883,0.8540000000000001,0.756,0.721,0.937,0.711,0.73
+Demographics,Households Below Poverty Level,0.14100000000000001,0.161,0.17400000000000002,0.17200000000000001,0.17800000000000002,0.14200000000000002,0.24000000000000002,0.201,NA,NA,NA
+Demographics,Mean family income,99436,88911,NA,71571,83871,75926,64481,62926,NA,NA,NA
 Demographics,Median Age,37.9,37.4,NA,40.6,38.3,38.9,36.6,34.3,NA,NA,NA
-Demographics,Median Family income," $73,965.00 "," $66,988.00 ", NA ," $58,635.00 "," $63,576.00 "," $63,833.00 "," $45,074.00 "," $49,050.00 ", NA , NA , NA 
+Demographics,Median Family income,73965,66988,NA,58635,63576,63833,45074,49050,NA,NA,NA
 Demographics,Population,322903030,6946685,1820135,126279,1019722,419721,46584,207829,912813,717366,45803
-Demographics,Rural,21%,12%,28%,39%,8%,19%,36%,11%,NA,NA,NA
-Demographics,Some College,21%,25%,26%,29%,25%,27%,22%,24%,NA,NA,NA
-Demographics,Unemployment,13%,9%,9%,7%,8%,8%,11%,18%,NA,NA,NA
-Demographics,Uninsured,9%,11%,10%,8%,10%,9%,12%,13%,8%,14%,19%
-Health Behavior Risk Factor,Adult Obesity,32%,31%,NA,31%,26%,35%,30%,38%,NA,NA,NA
-Health Behavior Risk Factor,Adult Smoking,16%,14%,NA,15%,18%,17%,15%,15%,NA,NA,NA
-Health Behavior Risk Factor,Diabetes,9%,10%,NA,8%,8%,12%,8%,11%,NA,NA,NA
-Health Behavior Risk Factor,Excessive drinking (BRFSS),16%,16%,NA,15%,17%,16%,14%,18%,NA,NA,NA
-Health Behavior Risk Factor,HPV vaccination (age range 13-17) 3+ doses,38%,45%,NA,51%,48%,35%,41%,57%,NA,NA,NA
-Health Behavior Risk Factor,No Leisure-Time Physical Activity,25%,26%,NA,25%,20%,29%,20%,26%,NA,NA,NA
+Demographics,Rural,0.1926903,0.1019018,0.137,0.363,0.07520000000000002,0.21900000000000003,0.269,0.10400000000000001,NA,NA,NA
+Demographics,Some College,0.20600000000000002,0.253,0.258,0.29200000000000004,0.251,0.274,0.21600000000000003,0.24300000000000002,NA,NA,NA
+Demographics,Unemployment,0.133,0.09,0.0937,0.07200000000000001,0.084,0.081,0.10800000000000001,0.182,NA,NA,NA
+Demographics,Uninsured,0.094,0.109,0.09979999999999999,0.082,0.09899999999999999,0.088,0.116,0.133,0.08310000000000001,0.14400000000000002,0.193
+Health Behavior Risk Factor,Adult Obesity,0.316,0.306,NA,0.314,0.257,0.35,0.301,0.384,NA,NA,NA
+Health Behavior Risk Factor,Adult Smoking,0.161,0.14,NA,0.15000000000000002,0.15000000000000002,0.16,0.15000000000000002,0.13,NA,NA,NA
+Health Behavior Risk Factor,Diabetes,0.091,0.097,NA,0.083,0.07600000000000001,0.119,0.07700000000000001,0.10600000000000001,NA,NA,NA
+Health Behavior Risk Factor,Excessive drinking (BRFSS),0.162,0.15600000000000003,NA,0.15000000000000002,0.17,0.16,0.14,0.18,NA,NA,NA
+Health Behavior Risk Factor,HPV vaccination (age range 13-17) 3+ doses,0.349,0.399,NA,0.505,0.47700000000000004,0.352,0.40800000000000003,0.5660000000000001,NA,NA,NA
+Health Behavior Risk Factor,No Leisure-Time Physical Activity,0.251,0.2584,NA,0.25,0.2,0.29000000000000004,0.2,0.26,NA,NA,NA
 Other,H. Poloyri (Robin for local catchment),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Other,Liver Disease (Garcia to provide catchment),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Race,American Indian,1%,4%,3%,1%,2%,4%,0%,1%,NA,NA,NA
-Race,Hispanic,18%,31%,39%,35%,37%,30%,84%,63%,NA,NA,NA
-Race,Non-Hispanic Black,12%,4%,3%,4%,3%,4%,0%,2%,NA,NA,NA
-Race,Non-Hispanic White,61%,55%,50%,55%,52%,57%,15%,31%,NA,NA,NA
-Screening,Cervical Cancer Screening,80%,78%,NA,52%,61%,51%,49%,52%,NA,NA,NA
-Screening,Colon Cancer Screening,76%,75%,NA,52%,61%,51%,49%,52%,NA,NA,NA
-Screening,"Had a Pap in Past 3 Yrs, No Hysterectomy",72%,68%,NA,68%,75%,62%,74%,58%,NA,NA,NA
-Screening,Mammography Screening,72%,69%,NA,60%,65%,52%,74%,55%,NA,NA,NA
+Race,American Indian,0.007,0.039,0.0252,0.009919999999999998,0.0246,0.0417,0.00213,0.00908,NA,NA,NA
+Race,Hispanic,0.17800000000000002,0.311,0.394,0.353,0.37,0.29900000000000004,0.8350000000000001,0.634,NA,NA,NA
+Race,Non-Hispanic Black,0.12300000000000001,0.041,0.032100000000000004,0.0353,0.0322,0.041800000000000004,0.00215,0.0172,NA,NA,NA
+Race,Non-Hispanic White,0.611,0.551,0.502,0.552,0.521,0.5710000000000001,0.14900000000000002,0.314,NA,NA,NA
+Screening,Cervical Cancer Screening,0.801,0.776,NA,0.521,0.608,0.505,0.491,0.521,NA,NA,NA
+Screening,Colon Cancer Screening,0.755,0.7532,NA,0.521,0.608,0.505,0.491,0.521,NA,NA,NA
+Screening,"Had a Pap in Past 3 Yrs, No Hysterectomy",0.717,0.6849999999999999,NA,0.6849999999999999,0.75,0.621,0.742,0.5760000000000001,NA,NA,NA
+Screening,Mammography Screening,0.718,0.6917,NA,0.595,0.645,0.524,0.735,0.553,NA,NA,NA
