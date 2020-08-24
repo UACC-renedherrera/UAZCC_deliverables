@@ -44,21 +44,21 @@ table_visualization <- uazcc_attribute %>%
 
 write_rds(table_visualization, "data/tidy/data_for_visualizations.rds")
 
-
 # prepare for UAZCC COE Characteristics, no race 
 
 uazcc_attribute_table <- uazcc_attribute %>% 
   filter(race == "All") %>%
-  select(attribute, area, value) %>%
-  spread(key = area, value = value)
-
+  select(category, attribute, area, value) %>%
+  spread(key = area, value = value) %>%
+  arrange(category, attribute)
 
 # prepare for UAZCC COE Characteristics, race only
 
 uazcc_attribute_table_race <- uazcc_attribute %>% 
   filter(race != "All") %>%
-  select(attribute, race, value) %>%
-  spread(key = race, value = value)
+  select(category, attribute, race, value) %>%
+  spread(key = race, value = value) %>%
+  arrange(category, attribute)
 
 # combine 
 uazcc_attribute_table <- full_join(uazcc_attribute_table, uazcc_attribute_table_race)
