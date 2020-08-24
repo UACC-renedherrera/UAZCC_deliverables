@@ -18,9 +18,9 @@ Excessive drinking (BRFSS),Pima,All,0.17,2017,Behavioral Risk Factor Surveillanc
 Excessive drinking (BRFSS),Yuma,All,0.18,2017,Behavioral Risk Factor Surveillance System,The 2020 County Health Rankings ,Health Behavior Risk Factor
 Excessive drinking (BRFSS),AZ,All,0.156,2018,Behavioral Risk Factor Surveillance System.,Prevalence of Binge Drinking Among US Adults; Data Planet™ Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID: 005-056-001,Health Behavior Risk Factor
 Adult Smoking,AZ,All,0.14,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Santa Cruz,All,0.146,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Cochise,All,0.151,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Yuma,All,0.154,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
+Adult Smoking,Catchment,Non-Hispanic White,,,,,Health Behavior Risk Factor
+Adult Smoking,Catchment,Hispanic or Latino,,,,,Health Behavior Risk Factor
+Adult Smoking,Catchment,American Indian,,,,,Health Behavior Risk Factor
 American Indian,Santa Cruz,All,0.00213,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05,Race
 American Indian,USA,All,0.007,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05,Race
 American Indian,Yuma,All,0.00908,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: DP05,Race
@@ -75,13 +75,13 @@ Total, Adults Aged 18+ Years, Age-Adjusted Percentage, National",Health Behavior
 Diabetes ,AZ,All,0.097,2016,US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,"Diagnosed Diabetes,
 Total, Adults Aged 18+ Years, Age-Adjusted Percentage, National",Health Behavior Risk Factor
 Adult Obesity ,Catchment,Non-Hispanic White,,,,,Health Behavior Risk Factor
-Adult Smoking,USA,All,0.161,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Pinal,All,0.169,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Pima,All,0.184,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
-Adult Smoking,Catchment,Non-Hispanic White,,,,,Health Behavior Risk Factor
-Adult Smoking,Catchment,Hispanic or Latino,,,,,Health Behavior Risk Factor
-Adult Smoking,Catchment,American Indian,,,,,Health Behavior Risk Factor
 Adult Smoking,Catchment,All,,,,,Health Behavior Risk Factor
+Adult Smoking,Cochise,All,0.15,2017,BRFSS Data,The 2020 County Health Rankings used data from 2017 for this measure.  https://www.countyhealthrankings.org/app/arizona/2020/measure/factors/9/data,Health Behavior Risk Factor
+Adult Smoking,Pima,All,0.15,2017,BRFSS Data,The 2020 County Health Rankings used data from 2017 for this measure.  https://www.countyhealthrankings.org/app/arizona/2020/measure/factors/9/data,Health Behavior Risk Factor
+Adult Smoking,Pinal,All,0.16,2017,BRFSS Data,The 2020 County Health Rankings used data from 2017 for this measure.  https://www.countyhealthrankings.org/app/arizona/2020/measure/factors/9/data,Health Behavior Risk Factor
+Adult Smoking,Santa Cruz,All,0.15,2017,BRFSS Data,The 2020 County Health Rankings used data from 2017 for this measure.  https://www.countyhealthrankings.org/app/arizona/2020/measure/factors/9/data,Health Behavior Risk Factor
+Adult Smoking,USA,All,0.161,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Health Behavior Risk Factor
+Adult Smoking,Yuma,All,0.13,2017,BRFSS Data,The 2020 County Health Rankings used data from 2017 for this measure.  https://www.countyhealthrankings.org/app/arizona/2020/measure/factors/9/data,Health Behavior Risk Factor
 Excessive drinking (BRFSS),Catchment,Non-Hispanic White,,,,,Health Behavior Risk Factor
 Excessive drinking (BRFSS),Catchment,Hispanic or Latino,,,,,Health Behavior Risk Factor
 Excessive drinking (BRFSS),Catchment,American Indian,,,,,Health Behavior Risk Factor
