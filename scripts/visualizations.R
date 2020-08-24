@@ -442,9 +442,8 @@ ggsave("risk_screening.svg",
        scale = .5
 )
 
-# demographic disparities 
+# demographic disparities ----
 unique(df$attribute)
-
 
 # all 8 geographic areas
 df %>%
@@ -499,8 +498,8 @@ df %>%
     y = "",
     x = "",
     caption = "Source: U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates;
-    Map the Meal Gap 2020"
-  ) +
+    Map the Meal Gap 2020;
+    May 2020 U.S. Bureau of Labor Statistics") +
   theme_clean() +
   theme(legend.position = "bottom") +
   scale_y_continuous(labels = scales::percent_format()) +
