@@ -4,10 +4,34 @@ library(here)
 library(tidyverse)
 library(ggthemes)
 
+# color palette
+blues_8 <- c("#f7fbff",
+             "#deebf7",
+             "#c6dbef",
+             "#9ecae1",
+             "#6baed6",
+             "#4292c6",
+             "#2171b5",
+             "#084594")
+
+blues_3 <- c("#deebf7",
+             "#9ecae1",
+             "#3182bd")
+
+mixed_8 <- c("#deebf7",
+             "#9ecae1",
+             "#3182bd",
+             "#edf8e9",
+             "#bae4b3",
+             "#74c476",
+             "#31a354",
+             "#006d2c")
+
 #### read data ####
 df <- read_rds("data/tidy/data_for_visualizations.rds")
 
 distinct(df, category)
+str(df)
 
 #### race ####
 table_race <- df %>%
@@ -411,6 +435,79 @@ table_screening %>%
 
 # save plot to file
 ggsave("risk_screening.svg",
+       width = 20,
+       height = 11.25,
+       device = svg,
+       path = "figures/graphics/",
+       scale = .5
+)
+
+# demographic disparities 
+unique(df$attribute)
+
+
+# all 8 geographic areas
+df %>%
+  filter(attribute == "College Graduate" |
+           attribute == "Rural" |
+           attribute == "Hispanic" |
+           attribute == "Households Below Poverty Level" |
+           attribute == "Food Insecurity" |
+           attribute == "Unemployment",
+         race == "All") %>%
+  ggplot(mapping = aes(x = attribute, y = value, fill = area)) +
+  geom_bar(color = "black", stat = "identity", position = "dodge", alpha = .5) +
+  labs(
+    title = "",
+    subtitle = "",
+    y = "",
+    x = "",
+    caption = "Source: U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates;
+    Map the Meal Gap 2020"
+  ) +
+  theme_clean() +
+  theme(legend.position = "bottom") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  scale_fill_manual(values = mixed_8)
+
+# save plot to file
+ggsave("demographic_disparities_01_complete.svg",
+       width = 20,
+       height = 11.25,
+       device = svg,
+       path = "figures/graphics/",
+       scale = .5
+)
+
+# only USA, AZ, Catchment
+df %>%
+  filter(attribute == "College Graduate" |
+           attribute == "Rural" |
+           attribute == "Hispanic" |
+           attribute == "Households Below Poverty Level" |
+           attribute == "Food Insecurity" |
+           attribute == "Unemployment",
+         race == "All",
+         area == "USA" |
+           area == "AZ" |
+           area == "Catchment") %>%
+  ggplot(mapping = aes(x = attribute, y = value, fill = area)) +
+  geom_bar(color = "black", stat = "identity", position = "dodge", alpha = .5) +
+  labs(
+    title = "",
+    subtitle = "",
+    y = "",
+    x = "",
+    caption = "Source: U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates;
+    Map the Meal Gap 2020"
+  ) +
+  theme_clean() +
+  theme(legend.position = "bottom") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  scale_fill_manual(values = blues_3)
+
+# save plot to file
+ggsave("demographic_disparities_01_us_az_catchment.svg",
        width = 20,
        height = 11.25,
        device = svg,
