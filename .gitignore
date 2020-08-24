@@ -48,3 +48,4 @@ data/*
 *.docx
 *.csv
 *.xlsx
+*.svg
