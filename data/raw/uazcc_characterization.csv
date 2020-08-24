@@ -269,17 +269,17 @@ Population,Pima,All,1019722,2014-2018,"U.S. Census Bureau, 2018 American Communi
 Population,Catchment,All,1820135,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003,Demographics
 Population,AZ,All,6946685,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003,Demographics
 Population,USA,All,322903030,2014-2018,"U.S. Census Bureau, 2018 American Community Survey 5-Year Estimates",Table ID: B01003,Demographics
-Rural,Pima,All,0.076076923,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,Yuma,All,0.109447923,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,AZ,All,0.1156685,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,Pinal,All,0.191625529,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,USA,All,0.210205,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,Catchment,All,0.283722669,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,Santa Cruz,All,0.357912271,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
-Rural,Cochise,All,0.387036127,2010,"U.S. Census Bureau, 2010 Census.",Table ID: H2,Demographics
+Rural,AZ,All,0.1019018,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,Catchment,All,0.137,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
 Rural,Catchment,Non-Hispanic White,,,,,Demographics
 Rural,Catchment,Hispanic or Latino,,,,,Demographics
 Rural,Catchment,American Indian,,,,,Demographics
+Rural,Cochise,All,0.363,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,Pima,All,0.0752,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,Pinal,All,0.219,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,Santa Cruz,All,0.269,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,USA,All,0.1926903,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
+Rural,Yuma,All,0.104,2010,"U.S. Census Bureau, 2010 Census.",Table ID: P2,Demographics
 Some College,USA,All,0.206,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301,Demographics
 Some College,Santa Cruz,All,0.216,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301,Demographics
 Some College,Yuma,All,0.243,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301,Demographics
