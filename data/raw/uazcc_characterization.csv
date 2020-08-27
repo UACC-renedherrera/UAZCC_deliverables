@@ -335,3 +335,11 @@ Median Household Income,Pima,White,57619,2014-2018,"U.S. Census Bureau, 2014-201
 Median Household Income,Pinal,White,58481,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
 Median Household Income,Santa Cruz,White,51972,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
 Median Household Income,Yuma,White,49704,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Unemployment ,USA,All,0.102,"""July 2020""",U.S. Bureau of Labor Statistics ,"Labor Force Statistics from the Current Population Survey HOUSEHOLD DATA SEASONALLY ADJUSTED A-3. Employment status of the civilian noninstitutional population by sex and age, seasonally adjusted https://www.bls.gov/web/empsit/cpseea03.htm",Demographics
+Unemployment ,AZ,All,0.106,"""June 2020""",U.S. Bureau of Labor Statistics ,Local Area Unemployment Statistics https://www.bls.gov/web/laus/laumstrk.htm,Demographics
+Unemployment ,Cochise,All,0.088,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
+Unemployment ,Pima,All,0.099,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
+Unemployment ,Pinal,All,0.099,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
+Unemployment ,Santa Cruz,All,0.135,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
+Unemployment ,Yuma,All,0.218,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
+Unemployment ,Catchment,All,0.112,"""June 2020""",U.S. Bureau of Labor Statistics ,"Labor force data by county, not seasonally adjusted, May 2019-June 2020(p)  https://www.bls.gov/web/metro/laucntycur14.txt",Demographics
