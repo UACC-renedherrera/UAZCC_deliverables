@@ -313,3 +313,25 @@ Uninsured ,Santa Cruz,All,0.116,2014-2018,"U.S. Census Bureau, 2014-2018 America
 Uninsured ,Yuma,All,0.133,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03,Demographics
 Uninsured ,Catchment,Hispanic or Latino,0.144,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03,Demographics
 Uninsured ,Catchment,American Indian,0.193,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: CP03,Demographics
+Median Household Income,USA,All,60293,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,AZ,All,56213,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Cochise,All,48649,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pima,All,51037,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pinal,All,55550,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Santa Cruz,All,40467,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Yuma,All,44058,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Cochise,American Indian,47917,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pima,American Indian,32331,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pinal,American Indian,26804,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Santa Cruz,American Indian,NA,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Yuma,American Indian,35063,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Cochise,Hispanic or Latino,39595,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pima,Hispanic or Latino,42035,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pinal,Hispanic or Latino,49733,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Santa Cruz,Hispanic or Latino,36005,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Yuma,Hispanic or Latino,39854,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Cochise,White,52293,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pima,White,57619,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Pinal,White,58481,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Santa Cruz,White,51972,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
+Median Household Income,Yuma,White,49704,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S1901,Demographics
