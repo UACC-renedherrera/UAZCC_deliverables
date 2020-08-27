@@ -39,7 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 # ignore data folder
-data/*
+data/
 
 # file types
 *.pdf
