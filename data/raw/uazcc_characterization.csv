@@ -127,11 +127,11 @@ H. Poloyri (Robin for local catchment),Pinal,All,,,,,Other
 H. Poloyri (Robin for local catchment),Santa Cruz,All,,,,,Other
 H. Poloyri (Robin for local catchment),USA,All,,,,,Other
 H. Poloyri (Robin for local catchment),Yuma,All,,,,,Other
-"Had a Pap in Past 3 Yrs, No Hysterectomy",Cochise,All,0.69,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Cochise,All,0.688,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
 "Had a Pap in Past 3 Yrs, No Hysterectomy",Pima,All,0.75,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
-"Had a Pap in Past 3 Yrs, No Hysterectomy",Pinal,All,0.62,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
-"Had a Pap in Past 3 Yrs, No Hysterectomy",Santa Cruz,All,0.74,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
-"Had a Pap in Past 3 Yrs, No Hysterectomy",Yuma,All,0.58,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Pinal,All,0.621,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Santa Cruz,All,0.742,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
+"Had a Pap in Past 3 Yrs, No Hysterectomy",Yuma,All,0.576,2008-2010,2008-2010 County Level Modeled Estimate Combining BRFSS & NHIS,statecancerprofiles.cancer.gov,Screening
 "Had a Pap in Past 3 Yrs, No Hysterectomy",AZ,All,0.69,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Screening
 "Had a Pap in Past 3 Yrs, No Hysterectomy",USA,All,0.72,2018,Directly Estimated 2018 BRFSS Data,statecancerprofiles.cancer.gov,Screening
 High School Graduation ,Catchment,Hispanic or Latino,0.71,2014-2018,"U.S. Census Bureau, 2014-2018 American Community Survey 5-Year Estimates",Table ID: S2301,Demographics
@@ -360,3 +360,11 @@ POPULATION 65 YEARS AND OVER IN THE UNITED STATES ,Pima,All ,0.187,2014-2018,US 
 POPULATION 65 YEARS AND OVER IN THE UNITED STATES ,Pinal,All ,0.193,2014-2018,US Census,ACS 5,Demographics
 POPULATION 65 YEARS AND OVER IN THE UNITED STATES ,Santa Cruz,All ,0.169,2014-2018,US Census,ACS 5,Demographics
 POPULATION 65 YEARS AND OVER IN THE UNITED STATES ,Yuma,All ,0.18,2014-2018,US Census,ACS 5,Demographics
+Land area in square miles,Pima,All,9187.04,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,Cochise,All,6165.69,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,Pinal,All,5365.61,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,Santa Cruz,All,1236.92,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,Yuma,All,5513.99,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,Catchment,All,27469.25,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,AZ,All,113594,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
+Land area in square miles,USA,All,3531905,2010,"U.S. Census Bureau, Census of Population and Housing.","Land area is based on current information in the TIGER data base, calculated for use with Census 2010. https://www.census.gov/quickfacts/fact/",Other
